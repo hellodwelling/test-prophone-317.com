@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://test-prophone-317.com/sitemap.xml
